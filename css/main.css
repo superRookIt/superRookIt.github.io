@@ -12,6 +12,15 @@
   color: #fff;
 }
 
+
+#skillimg img{
+	
+	width:300px;
+	height:300px;
+	
+}
+
+
 ::selection {
   background-color: #8490ff;
   color: #fff;
